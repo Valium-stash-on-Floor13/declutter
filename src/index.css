@@ -199,6 +199,35 @@ color:#333;
     color:white;
     
 }
+.policy{
+ 
+font-weight: bold;
+color:rgb(100, 100, 100);
+}
+
+.policy>li{
+    font-size:16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.policy li ul{
+    margin-top: 20px;
+  
+    font-weight:normal;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.policy li ul li{
+    color:rgb(145, 145, 145);
+    font-weight:normal;
+    margin-bottom: 20px;
+   
+
+}
+
+
+
 
 .blackshadow{
     box-shadow: 0 0 14px 1px rgba(0,0,0,0.3);
