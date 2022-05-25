@@ -227,6 +227,34 @@ color:rgb(100, 100, 100);
 }
 
 
+.privacy.ul >li{
+ 
+    font-weight: bold;
+    color:rgb(83, 83, 83);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+    
+  
+    
+    .privacylicy li ul{
+        margin-top: 20px;
+      
+        font-weight:normal;
+        margin-left: 20px;
+        margin-bottom: 10px;
+    }
+    .privacy li ul li{
+        color:rgb(145, 145, 145);
+        font-weight:normal;
+        margin-bottom: 20px;
+       
+    
+    }
+    
+    
+
+
 
 
 .blackshadow{
