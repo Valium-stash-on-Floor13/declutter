@@ -1,4 +1,5 @@
 import Header from './Header.js';
+import ScrollToTop from './ScrollToTop.js';
 import Home from './Home.js';
 import Location from './Location.js';
 import Services from'./Services.js';
