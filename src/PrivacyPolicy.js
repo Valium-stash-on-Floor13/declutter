@@ -1,0 +1,26 @@
+import React from 'react'
+
+const PrivacyPolicy = () => {
+  return (
+      <section>  <h2 className='text-[#142266] font-bold text-3xl text-center mx-auto mb-[80px] max-w-xl'>Privacy Policy</h2>
+<ul className='policy list-disc px-20px w-[70%] text-align text-[#4d4d4d] mx-auto'>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li  className='mb-[10px]' >Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+    <li className='mb-[10px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, earum at, tempore, voluptas quidem sed voluptatum explicabo velit aspernatur reprehenderit nesciunt consectetur laudantium quisquam odio saepe! Possimus fuga accusamus inventore, fugit incidunt quae iure rem, praesentium asperiores doloribus blanditiis sequi aliquid dolor ea repellendus veritatis, molestiae cum consectetur ipsum autem.</li>
+</ul>
+    
+</section>
+  
+  )
+
+}
+
+export default PrivacyPolicy
